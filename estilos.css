@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Margarine');
+
+h1,h2,h3,p,a{
+    font-family: 'Margarine', cursive;
+}
+
+.yo{
+    border: 5px solid white;
+    border-radius: 50%;
+    box-shadow: 4px 5px 12px white;
+}
+
+.imagen-fondo{
+    min-height: 100vh;
+    position: relative;
+    background: url("/assets/fondo.jpg") repeat right center;
+    background-size: 110%;    
+}
+
+.texto{
+    text-shadow: 3px 4px 14px white;
+}
